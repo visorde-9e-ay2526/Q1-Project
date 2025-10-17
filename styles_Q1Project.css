@@ -1,0 +1,79 @@
+body {
+	font-family: Montserrat;
+	background-color: #B3DEE2;
+	font-size: 20px;
+}
+header {
+	background-color: #EAF2D7;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	border-radius: 15px;
+}
+.intro {
+	background-color: #FFFDE5;
+}
+nav a {
+    color: #243007;
+    text-decoration: none;
+    margin-left: 20px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.container {
+	background-color: #EFCFE3;
+	padding: 20px;
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 20px;
+} 
+.intro {
+	background-color: #FFFDE5;
+}
+.center-img {
+	margin: 0px auto;
+}
+.work {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+form {
+	background-color: #EAF2D7;
+	padding: 20px;
+	width: 75%;
+	margin: 0 auto;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+.submit {
+	background-color: #EFCFE3;
+	font-family: Montserrat;
+	width: 40%;
+	padding: 3px;
+	border-radius: 20px;
+	font-size: 20px;
+}
+.contact-form {
+	background-color: #FFFEEE;
+	padding: 20px;
+	width: 50%;
+	border-radius:20px;
+	margin: 0px auto;
+}
+footer {
+	padding: 20px;
+	text-align: center;
+}
+input {
+	font-family: Montserrat;
+}
+textarea {
+	font-family: Montserrat;
+}
